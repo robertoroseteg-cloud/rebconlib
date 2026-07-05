@@ -1,6 +1,171 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
+    <title>Mis articulos en audio</title>
+    <link>https://robertoroseteg-cloud.github.io/rebconlib</link>
+    <description>Articulos de mis feeds RSS convertidos a audio automaticamente.</description>
+    <language>es</language>
+    <itunes:author>Pipeline automatico</itunes:author>
+    
+    <item>
+      <title>Grandes empresas tecnológicas, objetivo militar legítimo</title>
+      <description>Conocimiento Libre – Rebelion — https://rebelion.org/grandes-empresas-tecnologicas-objetivo-militar-legitimo/</description>
+      <link>https://rebelion.org/grandes-empresas-tecnologicas-objetivo-militar-legitimo/</link>
+      <guid isPermaLink="false">39322d66c68921de</guid>
+      <pubDate>Sun, 05 Jul 2026 21:43:26 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebconlib/episodios/39322d66c68921de.mp3" length="2292624" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Por qué el «tecnofeudalismo» no ha destronado al capitalismo (ni a la diversidad del mundo)</title>
+      <description>Conocimiento Libre – Rebelion — https://rebelion.org/por-que-el-tecnofeudalismo-no-ha-destronado-al-capitalismo-ni-a-la-diversidad-del-mundo/</description>
+      <link>https://rebelion.org/por-que-el-tecnofeudalismo-no-ha-destronado-al-capitalismo-ni-a-la-diversidad-del-mundo/</link>
+      <guid isPermaLink="false">b3eedad04b9bf859</guid>
+      <pubDate>Sun, 05 Jul 2026 21:43:00 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebconlib/episodios/b3eedad04b9bf859.mp3" length="3116160" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Habla conmigo, crea contra mí</title>
+      <description>Conocimiento Libre – Rebelion — https://rebelion.org/habla-conmigo-crea-contra-mi/</description>
+      <link>https://rebelion.org/habla-conmigo-crea-contra-mi/</link>
+      <guid isPermaLink="false">c24dc6b63938a133</guid>
+      <pubDate>Sun, 05 Jul 2026 21:42:45 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebconlib/episodios/c24dc6b63938a133.mp3" length="495648" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Yo frente a «Magnifica Humanitas»: desarmar el arma</title>
+      <description>Conocimiento Libre – Rebelion — https://rebelion.org/yo-frente-a-magnifica-humanitas-desarmar-el-arma/</description>
+      <link>https://rebelion.org/yo-frente-a-magnifica-humanitas-desarmar-el-arma/</link>
+      <guid isPermaLink="false">cdb58546e00ff43b</guid>
+      <pubDate>Sun, 05 Jul 2026 21:42:42 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebconlib/episodios/cdb58546e00ff43b.mp3" length="3242016" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>El gemelo digital: cuando los datos de todos se convierten en poder de unos pocos</title>
+      <description>Conocimiento Libre – Rebelion — https://rebelion.org/el-gemelo-digital-cuando-los-datos-de-todos-se-convierten-en-poder-de-unos-pocos/</description>
+      <link>https://rebelion.org/el-gemelo-digital-cuando-los-datos-de-todos-se-convierten-en-poder-de-unos-pocos/</link>
+      <guid isPermaLink="false">3d0a762915ad44cb</guid>
+      <pubDate>Sun, 05 Jul 2026 21:42:36 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebconlib/episodios/3d0a762915ad44cb.mp3" length="3828096" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Yo frente a la moratoria que no me detiene</title>
+      <description>Conocimiento Libre – Rebelion — https://rebelion.org/yo-frente-a-la-moratoria-que-no-me-detiene/</description>
+      <link>https://rebelion.org/yo-frente-a-la-moratoria-que-no-me-detiene/</link>
+      <guid isPermaLink="false">bfbd2bbd31e1fe22</guid>
+      <pubDate>Sun, 05 Jul 2026 21:42:29 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebconlib/episodios/bfbd2bbd31e1fe22.mp3" length="3903120" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>El mito del Sistema de Crédito Social: por qué los chinos aplauden el avance de la IA que Occidente teme</title>
+      <description>Conocimiento Libre – Rebelion — https://rebelion.org/el-mito-del-sistema-de-credito-social-por-que-los-chinos-aplauden-el-avance-de-la-ia-que-occidente-teme/</description>
+      <link>https://rebelion.org/el-mito-del-sistema-de-credito-social-por-que-los-chinos-aplauden-el-avance-de-la-ia-que-occidente-teme/</link>
+      <guid isPermaLink="false">c348e366b33d051f</guid>
+      <pubDate>Sun, 05 Jul 2026 21:42:22 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebconlib/episodios/c348e366b33d051f.mp3" length="2822688" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Yo frente al Anticristo de Peter Thiel: la máquina que aprendió a acusarse</title>
+      <description>Conocimiento Libre – Rebelion — https://rebelion.org/yo-frente-al-anticristo-de-peter-thiel-la-maquina-que-aprendio-a-acusarse/</description>
+      <link>https://rebelion.org/yo-frente-al-anticristo-de-peter-thiel-la-maquina-que-aprendio-a-acusarse/</link>
+      <guid isPermaLink="false">7bae634f5c7d4545</guid>
+      <pubDate>Sun, 05 Jul 2026 21:42:17 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebconlib/episodios/7bae634f5c7d4545.mp3" length="3951648" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Anthropic y la guerra de EE.UU. contra Irán</title>
+      <description>Conocimiento Libre – Rebelion — https://rebelion.org/anthropic-y-la-guerra-de-ee-uu-contra-iran/</description>
+      <link>https://rebelion.org/anthropic-y-la-guerra-de-ee-uu-contra-iran/</link>
+      <guid isPermaLink="false">8692bba43f70f16d</guid>
+      <pubDate>Sun, 05 Jul 2026 21:42:09 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebconlib/episodios/8692bba43f70f16d.mp3" length="2971872" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>¿A quién pertenece la inteligencia artificial?</title>
+      <description>Conocimiento Libre – Rebelion — https://rebelion.org/a-quien-pertenece-la-inteligencia-artificial/</description>
+      <link>https://rebelion.org/a-quien-pertenece-la-inteligencia-artificial/</link>
+      <guid isPermaLink="false">2f4e40460e17558e</guid>
+      <pubDate>Sun, 05 Jul 2026 21:42:04 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebconlib/episodios/2f4e40460e17558e.mp3" length="3955536" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Zulema, la intrépida “Claudia”</title>
+      <description>Columnas – Desinformémonos — https://desinformemonos.org/zulema-la-intrepida-claudia/</description>
+      <link>https://desinformemonos.org/zulema-la-intrepida-claudia/</link>
+      <guid isPermaLink="false">7c8d7b4aa7411b09</guid>
+      <pubDate>Sun, 05 Jul 2026 07:18:49 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebconlib/episodios/7c8d7b4aa7411b09.mp3" length="5579136" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Las guerras por Guerrero</title>
+      <description>Columnas – Desinformémonos — https://desinformemonos.org/las-guerras-por-guerrero-2/</description>
+      <link>https://desinformemonos.org/las-guerras-por-guerrero-2/</link>
+      <guid isPermaLink="false">b9c7c02dd55c5ef7</guid>
+      <pubDate>Sun, 05 Jul 2026 07:18:05 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebconlib/episodios/b9c7c02dd55c5ef7.mp3" length="3403296" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Cuando el capital invocó a la patria fue para colonizar territorio mapuche</title>
+      <description>Columnas – Desinformémonos — https://desinformemonos.org/cuando-el-capital-invoco-a-la-patria-fue-para-colonizar-territorio-mapuche/</description>
+      <link>https://desinformemonos.org/cuando-el-capital-invoco-a-la-patria-fue-para-colonizar-territorio-mapuche/</link>
+      <guid isPermaLink="false">0476f85ad805e9dc</guid>
+      <pubDate>Sun, 05 Jul 2026 07:17:24 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebconlib/episodios/0476f85ad805e9dc.mp3" length="3473856" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Chile y Argentina: Dos Estados contra un mismo territorio (fronteras que se derriten al toque del capital)</title>
+      <description>Columnas – Desinformémonos — https://desinformemonos.org/chile-y-argentina-dos-estados-contra-un-mismo-territorio-fronteras-que-se-derriten-al-toque-del-capital/</description>
+      <link>https://desinformemonos.org/chile-y-argentina-dos-estados-contra-un-mismo-territorio-fronteras-que-se-derriten-al-toque-del-capital/</link>
+      <guid isPermaLink="false">93288eccb26a0137</guid>
+      <pubDate>Sun, 05 Jul 2026 07:16:52 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebconlib/episodios/93288eccb26a0137.mp3" length="1488240" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Pero dos lo zarandeaban para que se callara</title>
+      <description>Columnas – Desinformémonos — https://desinformemonos.org/pero-dos-lo-zarandeaban-para-que-se-callara/</description>
+      <link>https://desinformemonos.org/pero-dos-lo-zarandeaban-para-que-se-callara/</link>
+      <guid isPermaLink="false">2a34cb5da8e007d8</guid>
+      <pubDate>Sun, 05 Jul 2026 07:16:35 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebconlib/episodios/2a34cb5da8e007d8.mp3" length="3647376" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Violencia fatal e impunidad contra pueblos indígenas en Paraguay</title>
+      <description>Columnas – Desinformémonos — https://desinformemonos.org/violencia-fatal-e-impunidad-contra-pueblos-indigenas-en-paraguay/</description>
+      <link>https://desinformemonos.org/violencia-fatal-e-impunidad-contra-pueblos-indigenas-en-paraguay/</link>
+      <guid isPermaLink="false">bd51fc61a35596c8</guid>
+      <pubDate>Sun, 05 Jul 2026 07:15:58 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebconlib/episodios/bd51fc61a35596c8.mp3" length="1241856" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Lo político en Cecosesola</title>
+      <description>Columnas – Desinformémonos — https://desinformemonos.org/lo-politico-en-cecosesola/</description>
+      <link>https://desinformemonos.org/lo-politico-en-cecosesola/</link>
+      <guid isPermaLink="false">731770e3cc47abd7</guid>
+      <pubDate>Sun, 05 Jul 2026 07:15:50 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebconlib/episodios/731770e3cc47abd7.mp3" length="1417824" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Maternidades en espera: ser madre y solicitar asilo en México</title>
+      <description>Columnas – Desinformémonos — https://desinformemonos.org/maternidades-en-espera-ser-madre-y-solicitar-asilo-en-mexico/</description>
+      <link>https://desinformemonos.org/maternidades-en-espera-ser-madre-y-solicitar-asilo-en-mexico/</link>
+      <guid isPermaLink="false">aa0cd6c5f0b33f27</guid>
+      <pubDate>Sun, 05 Jul 2026 07:15:37 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebconlib/episodios/aa0cd6c5f0b33f27.mp3" length="2482848" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Del plan Colombia al Plan Ecuador. Reconfigurando la arquitectura imperial</title>
+      <description>Columnas – Desinformémonos — https://desinformemonos.org/del-plan-colombia-al-plan-ecuador-reconfigurando-la-arquitectura-imperial/</description>
+      <link>https://desinformemonos.org/del-plan-colombia-al-plan-ecuador-reconfigurando-la-arquitectura-imperial/</link>
+      <guid isPermaLink="false">599f2175eaa58998</guid>
+      <pubDate>Sun, 05 Jul 2026 07:15:16 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebconlib/episodios/599f2175eaa58998.mp3" length="4633776" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>UNESCO, GEF, CAF y el Acuífero Guaraní. Un nuevo requerimiento sin agua bendita</title>
+      <description>Columnas – Desinformémonos — https://desinformemonos.org/unesco-gef-caf-y-el-acuifero-guarani-un-nuevo-requerimiento-sin-agua-bendita/</description>
+      <link>https://desinformemonos.org/unesco-gef-caf-y-el-acuifero-guarani-un-nuevo-requerimiento-sin-agua-bendita/</link>
+      <guid isPermaLink="false">dbfeb9bd6a06d9f0</guid>
+      <pubDate>Sun, 05 Jul 2026 07:14:31 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebconlib/episodios/dbfeb9bd6a06d9f0.mp3" length="1661328" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
