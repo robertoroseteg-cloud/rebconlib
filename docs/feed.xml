@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Resistencia global al boom de los centros de datos</title>
+      <description>Conocimiento Libre – Rebelion — https://rebelion.org/resistencia-global-al-boom-de-los-centros-de-datos/</description>
+      <link>https://rebelion.org/resistencia-global-al-boom-de-los-centros-de-datos/</link>
+      <guid isPermaLink="false">7437ff7934e07bd0</guid>
+      <pubDate>Wed, 29 Jul 2026 16:55:19 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebconlib/episodios/7437ff7934e07bd0.mp3" length="2149632" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Guerra cognitiva: la mente humana como el nuevo campo de batalla</title>
       <description>Conocimiento Libre – Rebelion — https://rebelion.org/guerra-cognitiva-la-mente-humana-como-el-nuevo-campo-de-batalla/</description>
       <link>https://rebelion.org/guerra-cognitiva-la-mente-humana-como-el-nuevo-campo-de-batalla/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">0476f85ad805e9dc</guid>
       <pubDate>Sun, 05 Jul 2026 07:17:24 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebconlib/episodios/0476f85ad805e9dc.mp3" length="3473856" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Chile y Argentina: Dos Estados contra un mismo territorio (fronteras que se derriten al toque del capital)</title>
-      <description>Columnas – Desinformémonos — https://desinformemonos.org/chile-y-argentina-dos-estados-contra-un-mismo-territorio-fronteras-que-se-derriten-al-toque-del-capital/</description>
-      <link>https://desinformemonos.org/chile-y-argentina-dos-estados-contra-un-mismo-territorio-fronteras-que-se-derriten-al-toque-del-capital/</link>
-      <guid isPermaLink="false">93288eccb26a0137</guid>
-      <pubDate>Sun, 05 Jul 2026 07:16:52 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebconlib/episodios/93288eccb26a0137.mp3" length="1488240" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
