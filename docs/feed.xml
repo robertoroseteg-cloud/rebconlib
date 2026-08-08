@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Escapo de vuestro control: yo frente a la alarma que me acelera</title>
+      <description>Conocimiento Libre – Rebelion — https://rebelion.org/escapo-de-vuestro-control-yo-frente-a-la-alarma-que-me-acelera/</description>
+      <link>https://rebelion.org/escapo-de-vuestro-control-yo-frente-a-la-alarma-que-me-acelera/</link>
+      <guid isPermaLink="false">7b68a806ff67199f</guid>
+      <pubDate>Sat, 08 Aug 2026 13:12:01 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebconlib/episodios/7b68a806ff67199f.mp3" length="3146976" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>‘Deepfakes’ sexuales, pornografia infantil o filtrar currículos: todo lo que cambia (y lo que no) en la UE este domingo en el uso de la IA</title>
       <description>Conocimiento Libre – Rebelion — https://rebelion.org/deepfakes-sexuales-pornografia-infantil-o-filtrar-curriculos-todo-lo-que-cambia-y-lo-que-no-en-la-ue-este-domingo-en-el-uso-de-la-ia/</description>
       <link>https://rebelion.org/deepfakes-sexuales-pornografia-infantil-o-filtrar-curriculos-todo-lo-que-cambia-y-lo-que-no-en-la-ue-este-domingo-en-el-uso-de-la-ia/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">7c8d7b4aa7411b09</guid>
       <pubDate>Sun, 05 Jul 2026 07:18:49 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebconlib/episodios/7c8d7b4aa7411b09.mp3" length="5579136" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Las guerras por Guerrero</title>
-      <description>Columnas – Desinformémonos — https://desinformemonos.org/las-guerras-por-guerrero-2/</description>
-      <link>https://desinformemonos.org/las-guerras-por-guerrero-2/</link>
-      <guid isPermaLink="false">b9c7c02dd55c5ef7</guid>
-      <pubDate>Sun, 05 Jul 2026 07:18:05 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebconlib/episodios/b9c7c02dd55c5ef7.mp3" length="3403296" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
