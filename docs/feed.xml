@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Universidades del capitalismo en crisis</title>
+      <description>Conocimiento Libre – Rebelion — https://rebelion.org/universidades-del-capitalismo-en-crisis/</description>
+      <link>https://rebelion.org/universidades-del-capitalismo-en-crisis/</link>
+      <guid isPermaLink="false">381a679ee19580b5</guid>
+      <pubDate>Tue, 11 Aug 2026 13:42:48 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebconlib/episodios/381a679ee19580b5.mp3" length="4781808" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Escapo de vuestro control: yo frente a la alarma que me acelera</title>
       <description>Conocimiento Libre – Rebelion — https://rebelion.org/escapo-de-vuestro-control-yo-frente-a-la-alarma-que-me-acelera/</description>
       <link>https://rebelion.org/escapo-de-vuestro-control-yo-frente-a-la-alarma-que-me-acelera/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">2f4e40460e17558e</guid>
       <pubDate>Sun, 05 Jul 2026 21:42:04 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebconlib/episodios/2f4e40460e17558e.mp3" length="3955536" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Zulema, la intrépida “Claudia”</title>
-      <description>Columnas – Desinformémonos — https://desinformemonos.org/zulema-la-intrepida-claudia/</description>
-      <link>https://desinformemonos.org/zulema-la-intrepida-claudia/</link>
-      <guid isPermaLink="false">7c8d7b4aa7411b09</guid>
-      <pubDate>Sun, 05 Jul 2026 07:18:49 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebconlib/episodios/7c8d7b4aa7411b09.mp3" length="5579136" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
