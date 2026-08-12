@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>El algoritmo de la hegemonía</title>
+      <description>Conocimiento Libre – Rebelion — https://rebelion.org/el-algoritmo-de-la-hegemonia/</description>
+      <link>https://rebelion.org/el-algoritmo-de-la-hegemonia/</link>
+      <guid isPermaLink="false">f3e1e8584da6b755</guid>
+      <pubDate>Wed, 12 Aug 2026 13:46:38 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebconlib/episodios/f3e1e8584da6b755.mp3" length="3870720" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Universidades del capitalismo en crisis</title>
       <description>Conocimiento Libre – Rebelion — https://rebelion.org/universidades-del-capitalismo-en-crisis/</description>
       <link>https://rebelion.org/universidades-del-capitalismo-en-crisis/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">8692bba43f70f16d</guid>
       <pubDate>Sun, 05 Jul 2026 21:42:09 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebconlib/episodios/8692bba43f70f16d.mp3" length="2971872" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>¿A quién pertenece la inteligencia artificial?</title>
-      <description>Conocimiento Libre – Rebelion — https://rebelion.org/a-quien-pertenece-la-inteligencia-artificial/</description>
-      <link>https://rebelion.org/a-quien-pertenece-la-inteligencia-artificial/</link>
-      <guid isPermaLink="false">2f4e40460e17558e</guid>
-      <pubDate>Sun, 05 Jul 2026 21:42:04 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebconlib/episodios/2f4e40460e17558e.mp3" length="3955536" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
