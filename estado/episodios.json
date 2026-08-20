@@ -1,5 +1,14 @@
 [
   {
+    "id": "a36c8376f12adf85",
+    "titulo": "Tecnologías ocultas. La IA no monta en bicicleta",
+    "fuente": "Conocimiento Libre – Rebelion",
+    "enlace": "https://rebelion.org/tecnologias-ocultas-la-ia-no-monta-en-bicicleta/",
+    "archivo": "a36c8376f12adf85.mp3",
+    "bytes": 4516848,
+    "timestamp": 1787231490
+  },
+  {
     "id": "f3e1e8584da6b755",
     "titulo": "El algoritmo de la hegemonía",
     "fuente": "Conocimiento Libre – Rebelion",
@@ -169,14 +178,5 @@
     "archivo": "7bae634f5c7d4545.mp3",
     "bytes": 3951648,
     "timestamp": 1783287737
-  },
-  {
-    "id": "8692bba43f70f16d",
-    "titulo": "Anthropic y la guerra de EE.UU. contra Irán",
-    "fuente": "Conocimiento Libre – Rebelion",
-    "enlace": "https://rebelion.org/anthropic-y-la-guerra-de-ee-uu-contra-iran/",
-    "archivo": "8692bba43f70f16d.mp3",
-    "bytes": 2971872,
-    "timestamp": 1783287729
   }
 ]

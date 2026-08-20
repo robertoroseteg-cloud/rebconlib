@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Tecnologías ocultas. La IA no monta en bicicleta</title>
+      <description>Conocimiento Libre – Rebelion — https://rebelion.org/tecnologias-ocultas-la-ia-no-monta-en-bicicleta/</description>
+      <link>https://rebelion.org/tecnologias-ocultas-la-ia-no-monta-en-bicicleta/</link>
+      <guid isPermaLink="false">a36c8376f12adf85</guid>
+      <pubDate>Thu, 20 Aug 2026 13:11:30 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebconlib/episodios/a36c8376f12adf85.mp3" length="4516848" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>El algoritmo de la hegemonía</title>
       <description>Conocimiento Libre – Rebelion — https://rebelion.org/el-algoritmo-de-la-hegemonia/</description>
       <link>https://rebelion.org/el-algoritmo-de-la-hegemonia/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">7bae634f5c7d4545</guid>
       <pubDate>Sun, 05 Jul 2026 21:42:17 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebconlib/episodios/7bae634f5c7d4545.mp3" length="3951648" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Anthropic y la guerra de EE.UU. contra Irán</title>
-      <description>Conocimiento Libre – Rebelion — https://rebelion.org/anthropic-y-la-guerra-de-ee-uu-contra-iran/</description>
-      <link>https://rebelion.org/anthropic-y-la-guerra-de-ee-uu-contra-iran/</link>
-      <guid isPermaLink="false">8692bba43f70f16d</guid>
-      <pubDate>Sun, 05 Jul 2026 21:42:09 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebconlib/episodios/8692bba43f70f16d.mp3" length="2971872" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
