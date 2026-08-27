@@ -1,5 +1,23 @@
 [
   {
+    "id": "3b831884e084689c",
+    "titulo": "Meta, Zuckerberg y el «mundo feliz» de Huxley",
+    "fuente": "Conocimiento Libre – Rebelion",
+    "enlace": "https://rebelion.org/meta-zuckerberg-y-el-mundo-feliz-de-huxley/",
+    "archivo": "3b831884e084689c.mp3",
+    "bytes": 1964880,
+    "timestamp": 1787869079
+  },
+  {
+    "id": "2a99984a502b9851",
+    "titulo": "Vidas artificiales: IA y crisis de la democracia",
+    "fuente": "Conocimiento Libre – Rebelion",
+    "enlace": "https://rebelion.org/vidas-artificiales-ia-y-crisis-de-la-democracia/",
+    "archivo": "2a99984a502b9851.mp3",
+    "bytes": 9598176,
+    "timestamp": 1787869062
+  },
+  {
     "id": "a36c8376f12adf85",
     "titulo": "Tecnologías ocultas. La IA no monta en bicicleta",
     "fuente": "Conocimiento Libre – Rebelion",
@@ -160,23 +178,5 @@
     "archivo": "bfbd2bbd31e1fe22.mp3",
     "bytes": 3903120,
     "timestamp": 1783287749
-  },
-  {
-    "id": "c348e366b33d051f",
-    "titulo": "El mito del Sistema de Crédito Social: por qué los chinos aplauden el avance de la IA que Occidente teme",
-    "fuente": "Conocimiento Libre – Rebelion",
-    "enlace": "https://rebelion.org/el-mito-del-sistema-de-credito-social-por-que-los-chinos-aplauden-el-avance-de-la-ia-que-occidente-teme/",
-    "archivo": "c348e366b33d051f.mp3",
-    "bytes": 2822688,
-    "timestamp": 1783287742
-  },
-  {
-    "id": "7bae634f5c7d4545",
-    "titulo": "Yo frente al Anticristo de Peter Thiel: la máquina que aprendió a acusarse",
-    "fuente": "Conocimiento Libre – Rebelion",
-    "enlace": "https://rebelion.org/yo-frente-al-anticristo-de-peter-thiel-la-maquina-que-aprendio-a-acusarse/",
-    "archivo": "7bae634f5c7d4545.mp3",
-    "bytes": 3951648,
-    "timestamp": 1783287737
   }
 ]
