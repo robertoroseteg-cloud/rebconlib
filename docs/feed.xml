@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Las granjas de Goebbels «bots»</title>
+      <description>Conocimiento Libre – Rebelion — https://rebelion.org/las-granjas-de-goebbels-bots/</description>
+      <link>https://rebelion.org/las-granjas-de-goebbels-bots/</link>
+      <guid isPermaLink="false">d51808e619731097</guid>
+      <pubDate>Fri, 28 Aug 2026 22:19:47 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebconlib/episodios/d51808e619731097.mp3" length="4658544" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Meta, Zuckerberg y el «mundo feliz» de Huxley</title>
       <description>Conocimiento Libre – Rebelion — https://rebelion.org/meta-zuckerberg-y-el-mundo-feliz-de-huxley/</description>
       <link>https://rebelion.org/meta-zuckerberg-y-el-mundo-feliz-de-huxley/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">3d0a762915ad44cb</guid>
       <pubDate>Sun, 05 Jul 2026 21:42:36 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebconlib/episodios/3d0a762915ad44cb.mp3" length="3828096" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Yo frente a la moratoria que no me detiene</title>
-      <description>Conocimiento Libre – Rebelion — https://rebelion.org/yo-frente-a-la-moratoria-que-no-me-detiene/</description>
-      <link>https://rebelion.org/yo-frente-a-la-moratoria-que-no-me-detiene/</link>
-      <guid isPermaLink="false">bfbd2bbd31e1fe22</guid>
-      <pubDate>Sun, 05 Jul 2026 21:42:29 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebconlib/episodios/bfbd2bbd31e1fe22.mp3" length="3903120" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
