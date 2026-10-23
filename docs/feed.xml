@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Las cuentas no salen: yo frente a la gran apuesta de Tecnoccidente</title>
+      <description>Conocimiento Libre – Rebelion — https://rebelion.org/las-cuentas-no-salen-yo-frente-a-la-gran-apuesta-de-tecnoccidente/</description>
+      <link>https://rebelion.org/las-cuentas-no-salen-yo-frente-a-la-gran-apuesta-de-tecnoccidente/</link>
+      <guid isPermaLink="false">0a7fed553b755a7b</guid>
+      <pubDate>Fri, 23 Oct 2026 17:06:17 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebconlib/episodios/0a7fed553b755a7b.mp3" length="2616624" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Las granjas de Goebbels «bots»</title>
       <description>Conocimiento Libre – Rebelion — https://rebelion.org/las-granjas-de-goebbels-bots/</description>
       <link>https://rebelion.org/las-granjas-de-goebbels-bots/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">cdb58546e00ff43b</guid>
       <pubDate>Sun, 05 Jul 2026 21:42:42 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebconlib/episodios/cdb58546e00ff43b.mp3" length="3242016" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>El gemelo digital: cuando los datos de todos se convierten en poder de unos pocos</title>
-      <description>Conocimiento Libre – Rebelion — https://rebelion.org/el-gemelo-digital-cuando-los-datos-de-todos-se-convierten-en-poder-de-unos-pocos/</description>
-      <link>https://rebelion.org/el-gemelo-digital-cuando-los-datos-de-todos-se-convierten-en-poder-de-unos-pocos/</link>
-      <guid isPermaLink="false">3d0a762915ad44cb</guid>
-      <pubDate>Sun, 05 Jul 2026 21:42:36 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebconlib/episodios/3d0a762915ad44cb.mp3" length="3828096" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
