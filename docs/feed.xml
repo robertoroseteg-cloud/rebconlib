@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>La inteligencia artificial y los límites del capitalismo</title>
+      <description>Rebelión · Conocimiento Libre — https://rebelion.org/la-inteligencia-artificial-y-los-limites-del-capitalismo/</description>
+      <link>https://rebelion.org/la-inteligencia-artificial-y-los-limites-del-capitalismo/</link>
+      <guid isPermaLink="false">782bdc02865f4dd2</guid>
+      <pubDate>Wed, 28 Oct 2026 18:21:06 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebconlib/episodios/782bdc02865f4dd2.mp3" length="2626128" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Las cuentas no salen: yo frente a la gran apuesta de Tecnoccidente</title>
       <description>Conocimiento Libre – Rebelion — https://rebelion.org/las-cuentas-no-salen-yo-frente-a-la-gran-apuesta-de-tecnoccidente/</description>
       <link>https://rebelion.org/las-cuentas-no-salen-yo-frente-a-la-gran-apuesta-de-tecnoccidente/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">c24dc6b63938a133</guid>
       <pubDate>Sun, 05 Jul 2026 21:42:45 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebconlib/episodios/c24dc6b63938a133.mp3" length="495648" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Yo frente a «Magnifica Humanitas»: desarmar el arma</title>
-      <description>Conocimiento Libre – Rebelion — https://rebelion.org/yo-frente-a-magnifica-humanitas-desarmar-el-arma/</description>
-      <link>https://rebelion.org/yo-frente-a-magnifica-humanitas-desarmar-el-arma/</link>
-      <guid isPermaLink="false">cdb58546e00ff43b</guid>
-      <pubDate>Sun, 05 Jul 2026 21:42:42 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebconlib/episodios/cdb58546e00ff43b.mp3" length="3242016" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
