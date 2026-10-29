@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Contrasentidos del tecnofeudalismo</title>
+      <description>Rebelión · Conocimiento Libre — https://rebelion.org/contrasentidos-del-tecno-feudalismo/</description>
+      <link>https://rebelion.org/contrasentidos-del-tecno-feudalismo/</link>
+      <guid isPermaLink="false">ce599ffc752f97f2</guid>
+      <pubDate>Thu, 29 Oct 2026 18:31:41 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebconlib/episodios/ce599ffc752f97f2.mp3" length="13675392" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>La inteligencia artificial y los límites del capitalismo</title>
       <description>Rebelión · Conocimiento Libre — https://rebelion.org/la-inteligencia-artificial-y-los-limites-del-capitalismo/</description>
       <link>https://rebelion.org/la-inteligencia-artificial-y-los-limites-del-capitalismo/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">b3eedad04b9bf859</guid>
       <pubDate>Sun, 05 Jul 2026 21:43:00 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebconlib/episodios/b3eedad04b9bf859.mp3" length="3116160" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Habla conmigo, crea contra mí</title>
-      <description>Conocimiento Libre – Rebelion — https://rebelion.org/habla-conmigo-crea-contra-mi/</description>
-      <link>https://rebelion.org/habla-conmigo-crea-contra-mi/</link>
-      <guid isPermaLink="false">c24dc6b63938a133</guid>
-      <pubDate>Sun, 05 Jul 2026 21:42:45 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebconlib/episodios/c24dc6b63938a133.mp3" length="495648" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
