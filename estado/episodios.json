@@ -1,5 +1,23 @@
 [
   {
+    "id": "f5c8f03ad7cd9340",
+    "titulo": "El territorio de la inteligencia artificial",
+    "fuente": "Rebelión · Conocimiento Libre",
+    "enlace": "https://rebelion.org/el-territorio-de-la-inteligencia-artificial/",
+    "archivo": "f5c8f03ad7cd9340.mp3",
+    "bytes": 5360400,
+    "timestamp": 1793383369
+  },
+  {
+    "id": "e213fe21ed343556",
+    "titulo": "Eco-consistencia",
+    "fuente": "Rebelión · Conocimiento Libre",
+    "enlace": "https://rebelion.org/eco-consistencia/",
+    "archivo": "e213fe21ed343556.mp3",
+    "bytes": 4581936,
+    "timestamp": 1793383275
+  },
+  {
     "id": "ce599ffc752f97f2",
     "titulo": "Contrasentidos del tecnofeudalismo",
     "fuente": "Rebelión · Conocimiento Libre",
@@ -160,23 +178,5 @@
     "archivo": "dacb3520b1052cf0.mp3",
     "bytes": 2947536,
     "timestamp": 1784444317
-  },
-  {
-    "id": "39322d66c68921de",
-    "titulo": "Grandes empresas tecnológicas, objetivo militar legítimo",
-    "fuente": "Conocimiento Libre – Rebelion",
-    "enlace": "https://rebelion.org/grandes-empresas-tecnologicas-objetivo-militar-legitimo/",
-    "archivo": "39322d66c68921de.mp3",
-    "bytes": 2292624,
-    "timestamp": 1783287806
-  },
-  {
-    "id": "b3eedad04b9bf859",
-    "titulo": "Por qué el «tecnofeudalismo» no ha destronado al capitalismo (ni a la diversidad del mundo)",
-    "fuente": "Conocimiento Libre – Rebelion",
-    "enlace": "https://rebelion.org/por-que-el-tecnofeudalismo-no-ha-destronado-al-capitalismo-ni-a-la-diversidad-del-mundo/",
-    "archivo": "b3eedad04b9bf859.mp3",
-    "bytes": 3116160,
-    "timestamp": 1783287780
   }
 ]
