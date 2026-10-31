@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Tres equívocos sobre el capitalismo</title>
+      <description>Rebelión · Conocimiento Libre — https://rebelion.org/tres-equivocos-sobre-el-capitalismo/</description>
+      <link>https://rebelion.org/tres-equivocos-sobre-el-capitalismo/</link>
+      <guid isPermaLink="false">67edb4a894bccc5c</guid>
+      <pubDate>Sat, 31 Oct 2026 17:16:46 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebconlib/episodios/67edb4a894bccc5c.mp3" length="8665632" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>El territorio de la inteligencia artificial</title>
       <description>Rebelión · Conocimiento Libre — https://rebelion.org/el-territorio-de-la-inteligencia-artificial/</description>
       <link>https://rebelion.org/el-territorio-de-la-inteligencia-artificial/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">3f03d944d2a9ad4a</guid>
       <pubDate>Sun, 19 Jul 2026 06:59:20 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebconlib/episodios/3f03d944d2a9ad4a.mp3" length="4022928" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>La cicloide de Newton</title>
-      <description>Conocimiento Libre – Rebelion — https://rebelion.org/la-cicloide-de-newton/</description>
-      <link>https://rebelion.org/la-cicloide-de-newton/</link>
-      <guid isPermaLink="false">dacb3520b1052cf0</guid>
-      <pubDate>Sun, 19 Jul 2026 06:58:37 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebconlib/episodios/dacb3520b1052cf0.mp3" length="2947536" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
