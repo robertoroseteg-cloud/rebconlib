@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Cuando la inteligencia aniquila</title>
+      <description>Rebelión · Conocimiento Libre — https://rebelion.org/cuando-la-inteligencia-aniquila/</description>
+      <link>https://rebelion.org/cuando-la-inteligencia-aniquila/</link>
+      <guid isPermaLink="false">69418934a9a2d023</guid>
+      <pubDate>Mon, 02 Nov 2026 21:42:54 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebconlib/episodios/69418934a9a2d023.mp3" length="3540960" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Tres equívocos sobre el capitalismo</title>
       <description>Rebelión · Conocimiento Libre — https://rebelion.org/tres-equivocos-sobre-el-capitalismo/</description>
       <link>https://rebelion.org/tres-equivocos-sobre-el-capitalismo/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">763352371f5e04c1</guid>
       <pubDate>Sun, 19 Jul 2026 06:59:39 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebconlib/episodios/763352371f5e04c1.mp3" length="1624032" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>¿Quién está contra la IA?</title>
-      <description>Conocimiento Libre – Rebelion — https://rebelion.org/quien-esta-contra-la-ia/</description>
-      <link>https://rebelion.org/quien-esta-contra-la-ia/</link>
-      <guid isPermaLink="false">3f03d944d2a9ad4a</guid>
-      <pubDate>Sun, 19 Jul 2026 06:59:20 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebconlib/episodios/3f03d944d2a9ad4a.mp3" length="4022928" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>

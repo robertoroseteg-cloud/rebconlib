@@ -1,5 +1,14 @@
 [
   {
+    "id": "69418934a9a2d023",
+    "titulo": "Cuando la inteligencia aniquila",
+    "fuente": "Rebelión · Conocimiento Libre",
+    "enlace": "https://rebelion.org/cuando-la-inteligencia-aniquila/",
+    "archivo": "69418934a9a2d023.mp3",
+    "bytes": 3540960,
+    "timestamp": 1793655774
+  },
+  {
     "id": "67edb4a894bccc5c",
     "titulo": "Tres equívocos sobre el capitalismo",
     "fuente": "Rebelión · Conocimiento Libre",
@@ -169,14 +178,5 @@
     "archivo": "763352371f5e04c1.mp3",
     "bytes": 1624032,
     "timestamp": 1784444379
-  },
-  {
-    "id": "3f03d944d2a9ad4a",
-    "titulo": "¿Quién está contra la IA?",
-    "fuente": "Conocimiento Libre – Rebelion",
-    "enlace": "https://rebelion.org/quien-esta-contra-la-ia/",
-    "archivo": "3f03d944d2a9ad4a.mp3",
-    "bytes": 4022928,
-    "timestamp": 1784444360
   }
 ]
