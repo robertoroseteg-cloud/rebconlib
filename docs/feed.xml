@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Yo frente al territorio que dice «no»</title>
+      <description>Rebelión · Conocimiento Libre — https://rebelion.org/yo-frente-al-territorio-que-dice-no/</description>
+      <link>https://rebelion.org/yo-frente-al-territorio-que-dice-no/</link>
+      <guid isPermaLink="false">fb7d80098bfef3b4</guid>
+      <pubDate>Fri, 06 Nov 2026 19:24:31 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebconlib/episodios/fb7d80098bfef3b4.mp3" length="2884464" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Cuando la inteligencia aniquila</title>
       <description>Rebelión · Conocimiento Libre — https://rebelion.org/cuando-la-inteligencia-aniquila/</description>
       <link>https://rebelion.org/cuando-la-inteligencia-aniquila/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">1d1b5e28c82fc7e1</guid>
       <pubDate>Sun, 19 Jul 2026 07:00:08 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebconlib/episodios/1d1b5e28c82fc7e1.mp3" length="3724416" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Yo frente WhatsApp: la adicción sin diseño</title>
-      <description>Conocimiento Libre – Rebelion — https://rebelion.org/yo-frente-whatsapp-la-adiccion-sin-diseno/</description>
-      <link>https://rebelion.org/yo-frente-whatsapp-la-adiccion-sin-diseno/</link>
-      <guid isPermaLink="false">763352371f5e04c1</guid>
-      <pubDate>Sun, 19 Jul 2026 06:59:39 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebconlib/episodios/763352371f5e04c1.mp3" length="1624032" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
