@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>«Es posible crear una nueva comunidad digital donde mujeres y disidencias podamos encontrarnos»</title>
+      <description>Rebelión · Conocimiento Libre — https://rebelion.org/es-posible-crear-una-nueva-comunidad-digital-donde-mujeres-y-disidencias-podamos-encontrarnos/</description>
+      <link>https://rebelion.org/es-posible-crear-una-nueva-comunidad-digital-donde-mujeres-y-disidencias-podamos-encontrarnos/</link>
+      <guid isPermaLink="false">7ebb9eccef6657a4</guid>
+      <pubDate>Sat, 07 Nov 2026 17:45:46 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebconlib/episodios/7ebb9eccef6657a4.mp3" length="3668688" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Yo frente al territorio que dice «no»</title>
       <description>Rebelión · Conocimiento Libre — https://rebelion.org/yo-frente-al-territorio-que-dice-no/</description>
       <link>https://rebelion.org/yo-frente-al-territorio-que-dice-no/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">dc46336954d35198</guid>
       <pubDate>Mon, 27 Jul 2026 18:10:13 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebconlib/episodios/dc46336954d35198.mp3" length="2054448" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>La IA desata una guerra civil en el mundo MAGA y Trump aún no ha tomado partido</title>
-      <description>Conocimiento Libre – Rebelion — https://rebelion.org/la-ia-desata-una-guerra-civil-en-el-mundo-maga-y-trump-aun-no-ha-tomado-partido/</description>
-      <link>https://rebelion.org/la-ia-desata-una-guerra-civil-en-el-mundo-maga-y-trump-aun-no-ha-tomado-partido/</link>
-      <guid isPermaLink="false">1d1b5e28c82fc7e1</guid>
-      <pubDate>Sun, 19 Jul 2026 07:00:08 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebconlib/episodios/1d1b5e28c82fc7e1.mp3" length="3724416" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
