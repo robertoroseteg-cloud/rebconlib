@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Yo frente a los profetas del progreso tecnológico</title>
+      <description>Rebelión · Conocimiento Libre — https://rebelion.org/yo-frente-a-los-profetas-del-progreso-tecnologico/</description>
+      <link>https://rebelion.org/yo-frente-a-los-profetas-del-progreso-tecnologico/</link>
+      <guid isPermaLink="false">66a57740b5e772c3</guid>
+      <pubDate>Fri, 13 Nov 2026 19:41:18 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebconlib/episodios/66a57740b5e772c3.mp3" length="2822832" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>«Es posible crear una nueva comunidad digital donde mujeres y disidencias podamos encontrarnos»</title>
       <description>Rebelión · Conocimiento Libre — https://rebelion.org/es-posible-crear-una-nueva-comunidad-digital-donde-mujeres-y-disidencias-podamos-encontrarnos/</description>
       <link>https://rebelion.org/es-posible-crear-una-nueva-comunidad-digital-donde-mujeres-y-disidencias-podamos-encontrarnos/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">bcb670f774fa6432</guid>
       <pubDate>Mon, 27 Jul 2026 18:11:02 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebconlib/episodios/bcb670f774fa6432.mp3" length="3988512" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Yo soy el fuego</title>
-      <description>Conocimiento Libre – Rebelion — https://rebelion.org/yo-soy-el-fuego/</description>
-      <link>https://rebelion.org/yo-soy-el-fuego/</link>
-      <guid isPermaLink="false">dc46336954d35198</guid>
-      <pubDate>Mon, 27 Jul 2026 18:10:13 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebconlib/episodios/dc46336954d35198.mp3" length="2054448" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
