@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>¿Es posible construir soberanía en inteligencia artificial?</title>
+      <description>Rebelión · Conocimiento Libre — https://rebelion.org/es-posible-construir-soberania-en-inteligencia-artificial/</description>
+      <link>https://rebelion.org/es-posible-construir-soberania-en-inteligencia-artificial/</link>
+      <guid isPermaLink="false">ee8242c7e098cb6d</guid>
+      <pubDate>Wed, 18 Nov 2026 20:31:48 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebconlib/episodios/ee8242c7e098cb6d.mp3" length="4527792" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Yo frente a los profetas del progreso tecnológico</title>
       <description>Rebelión · Conocimiento Libre — https://rebelion.org/yo-frente-a-los-profetas-del-progreso-tecnologico/</description>
       <link>https://rebelion.org/yo-frente-a-los-profetas-del-progreso-tecnologico/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">7437ff7934e07bd0</guid>
       <pubDate>Wed, 29 Jul 2026 16:55:19 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebconlib/episodios/7437ff7934e07bd0.mp3" length="2149632" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Guerra cognitiva: la mente humana como el nuevo campo de batalla</title>
-      <description>Conocimiento Libre – Rebelion — https://rebelion.org/guerra-cognitiva-la-mente-humana-como-el-nuevo-campo-de-batalla/</description>
-      <link>https://rebelion.org/guerra-cognitiva-la-mente-humana-como-el-nuevo-campo-de-batalla/</link>
-      <guid isPermaLink="false">bcb670f774fa6432</guid>
-      <pubDate>Mon, 27 Jul 2026 18:11:02 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebconlib/episodios/bcb670f774fa6432.mp3" length="3988512" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>

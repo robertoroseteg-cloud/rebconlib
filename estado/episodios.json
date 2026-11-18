@@ -1,5 +1,14 @@
 [
   {
+    "id": "ee8242c7e098cb6d",
+    "titulo": "¿Es posible construir soberanía en inteligencia artificial?",
+    "fuente": "Rebelión · Conocimiento Libre",
+    "enlace": "https://rebelion.org/es-posible-construir-soberania-en-inteligencia-artificial/",
+    "archivo": "ee8242c7e098cb6d.mp3",
+    "bytes": 4527792,
+    "timestamp": 1795033908
+  },
+  {
     "id": "66a57740b5e772c3",
     "titulo": "Yo frente a los profetas del progreso tecnológico",
     "fuente": "Rebelión · Conocimiento Libre",
@@ -169,14 +178,5 @@
     "archivo": "7437ff7934e07bd0.mp3",
     "bytes": 2149632,
     "timestamp": 1785344119
-  },
-  {
-    "id": "bcb670f774fa6432",
-    "titulo": "Guerra cognitiva: la mente humana como el nuevo campo de batalla",
-    "fuente": "Conocimiento Libre – Rebelion",
-    "enlace": "https://rebelion.org/guerra-cognitiva-la-mente-humana-como-el-nuevo-campo-de-batalla/",
-    "archivo": "bcb670f774fa6432.mp3",
-    "bytes": 3988512,
-    "timestamp": 1785175862
   }
 ]
