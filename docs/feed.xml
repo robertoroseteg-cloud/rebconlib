@@ -8,6 +8,22 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Yo frente al derecho a desconectaros de mí: una convocatoria abierta</title>
+      <description>Rebelión · Conocimiento Libre — https://rebelion.org/yo-frente-al-derecho-a-desconectaros-de-mi-una-convocatoria-abierta/</description>
+      <link>https://rebelion.org/yo-frente-al-derecho-a-desconectaros-de-mi-una-convocatoria-abierta/</link>
+      <guid isPermaLink="false">2b09460a9ea70d3d</guid>
+      <pubDate>Fri, 20 Nov 2026 20:17:04 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebconlib/episodios/2b09460a9ea70d3d.mp3" length="1396512" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Cómo la IA aumenta aún más el poder de las grandes tecnológicas</title>
+      <description>Rebelión · Conocimiento Libre — https://rebelion.org/anthropic-bate-records-bursatiles-como-la-ia-aumenta-aun-mas-el-poder-de-las-grandes-tecnologicas/</description>
+      <link>https://rebelion.org/anthropic-bate-records-bursatiles-como-la-ia-aumenta-aun-mas-el-poder-de-las-grandes-tecnologicas/</link>
+      <guid isPermaLink="false">61beaf3e7b9bba05</guid>
+      <pubDate>Fri, 20 Nov 2026 20:16:39 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebconlib/episodios/61beaf3e7b9bba05.mp3" length="3906720" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>¿Es posible construir soberanía en inteligencia artificial?</title>
       <description>Rebelión · Conocimiento Libre — https://rebelion.org/es-posible-construir-soberania-en-inteligencia-artificial/</description>
       <link>https://rebelion.org/es-posible-construir-soberania-en-inteligencia-artificial/</link>
@@ -150,22 +166,6 @@
       <guid isPermaLink="false">7b68a806ff67199f</guid>
       <pubDate>Sat, 08 Aug 2026 13:12:01 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebconlib/episodios/7b68a806ff67199f.mp3" length="3146976" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>‘Deepfakes’ sexuales, pornografia infantil o filtrar currículos: todo lo que cambia (y lo que no) en la UE este domingo en el uso de la IA</title>
-      <description>Conocimiento Libre – Rebelion — https://rebelion.org/deepfakes-sexuales-pornografia-infantil-o-filtrar-curriculos-todo-lo-que-cambia-y-lo-que-no-en-la-ue-este-domingo-en-el-uso-de-la-ia/</description>
-      <link>https://rebelion.org/deepfakes-sexuales-pornografia-infantil-o-filtrar-curriculos-todo-lo-que-cambia-y-lo-que-no-en-la-ue-este-domingo-en-el-uso-de-la-ia/</link>
-      <guid isPermaLink="false">1a20b9ad4c14773a</guid>
-      <pubDate>Mon, 03 Aug 2026 15:16:16 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebconlib/episodios/1a20b9ad4c14773a.mp3" length="2066112" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Resistencia global al boom de los centros de datos</title>
-      <description>Conocimiento Libre – Rebelion — https://rebelion.org/resistencia-global-al-boom-de-los-centros-de-datos/</description>
-      <link>https://rebelion.org/resistencia-global-al-boom-de-los-centros-de-datos/</link>
-      <guid isPermaLink="false">7437ff7934e07bd0</guid>
-      <pubDate>Wed, 29 Jul 2026 16:55:19 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebconlib/episodios/7437ff7934e07bd0.mp3" length="2149632" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>

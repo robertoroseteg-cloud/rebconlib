@@ -1,5 +1,23 @@
 [
   {
+    "id": "2b09460a9ea70d3d",
+    "titulo": "Yo frente al derecho a desconectaros de mí: una convocatoria abierta",
+    "fuente": "Rebelión · Conocimiento Libre",
+    "enlace": "https://rebelion.org/yo-frente-al-derecho-a-desconectaros-de-mi-una-convocatoria-abierta/",
+    "archivo": "2b09460a9ea70d3d.mp3",
+    "bytes": 1396512,
+    "timestamp": 1795205824
+  },
+  {
+    "id": "61beaf3e7b9bba05",
+    "titulo": "Cómo la IA aumenta aún más el poder de las grandes tecnológicas",
+    "fuente": "Rebelión · Conocimiento Libre",
+    "enlace": "https://rebelion.org/anthropic-bate-records-bursatiles-como-la-ia-aumenta-aun-mas-el-poder-de-las-grandes-tecnologicas/",
+    "archivo": "61beaf3e7b9bba05.mp3",
+    "bytes": 3906720,
+    "timestamp": 1795205799
+  },
+  {
     "id": "ee8242c7e098cb6d",
     "titulo": "¿Es posible construir soberanía en inteligencia artificial?",
     "fuente": "Rebelión · Conocimiento Libre",
@@ -160,23 +178,5 @@
     "archivo": "7b68a806ff67199f.mp3",
     "bytes": 3146976,
     "timestamp": 1786194721
-  },
-  {
-    "id": "1a20b9ad4c14773a",
-    "titulo": "‘Deepfakes’ sexuales, pornografia infantil o filtrar currículos: todo lo que cambia (y lo que no) en la UE este domingo en el uso de la IA",
-    "fuente": "Conocimiento Libre – Rebelion",
-    "enlace": "https://rebelion.org/deepfakes-sexuales-pornografia-infantil-o-filtrar-curriculos-todo-lo-que-cambia-y-lo-que-no-en-la-ue-este-domingo-en-el-uso-de-la-ia/",
-    "archivo": "1a20b9ad4c14773a.mp3",
-    "bytes": 2066112,
-    "timestamp": 1785770176
-  },
-  {
-    "id": "7437ff7934e07bd0",
-    "titulo": "Resistencia global al boom de los centros de datos",
-    "fuente": "Conocimiento Libre – Rebelion",
-    "enlace": "https://rebelion.org/resistencia-global-al-boom-de-los-centros-de-datos/",
-    "archivo": "7437ff7934e07bd0.mp3",
-    "bytes": 2149632,
-    "timestamp": 1785344119
   }
 ]
