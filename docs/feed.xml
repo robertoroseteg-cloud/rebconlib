@@ -8,6 +8,22 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Máquina juzga a humano: el caso Pangram vs Rojas Silva</title>
+      <description>Rebelión · Conocimiento Libre — https://rebelion.org/maquina-juzga-a-humano-el-caso-pangram-vs-rojas-silva/</description>
+      <link>https://rebelion.org/maquina-juzga-a-humano-el-caso-pangram-vs-rojas-silva/</link>
+      <guid isPermaLink="false">866655c281b98d8f</guid>
+      <pubDate>Mon, 23 Nov 2026 23:56:59 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebconlib/episodios/866655c281b98d8f.mp3" length="2208816" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>«Blackout» aeronáutico en Estados Unidos</title>
+      <description>Rebelión · Conocimiento Libre — https://rebelion.org/blackout-aeronautico-en-estados-unidos/</description>
+      <link>https://rebelion.org/blackout-aeronautico-en-estados-unidos/</link>
+      <guid isPermaLink="false">6cfb0150f781bf3f</guid>
+      <pubDate>Mon, 23 Nov 2026 23:56:08 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebconlib/episodios/6cfb0150f781bf3f.mp3" length="12098304" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Los algoritmos de las redes sociales pueden estar condicionando nuestra opinión y debilitando la democracia</title>
       <description>Rebelión · Conocimiento Libre — https://rebelion.org/los-algoritmos-de-las-redes-sociales-pueden-estar-condicionando-nuestra-opinion-y-debilitando-la-democracia/</description>
       <link>https://rebelion.org/los-algoritmos-de-las-redes-sociales-pueden-estar-condicionando-nuestra-opinion-y-debilitando-la-democracia/</link>
@@ -150,22 +166,6 @@
       <guid isPermaLink="false">a36c8376f12adf85</guid>
       <pubDate>Thu, 20 Aug 2026 13:11:30 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebconlib/episodios/a36c8376f12adf85.mp3" length="4516848" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>El algoritmo de la hegemonía</title>
-      <description>Conocimiento Libre – Rebelion — https://rebelion.org/el-algoritmo-de-la-hegemonia/</description>
-      <link>https://rebelion.org/el-algoritmo-de-la-hegemonia/</link>
-      <guid isPermaLink="false">f3e1e8584da6b755</guid>
-      <pubDate>Wed, 12 Aug 2026 13:46:38 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebconlib/episodios/f3e1e8584da6b755.mp3" length="3870720" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Universidades del capitalismo en crisis</title>
-      <description>Conocimiento Libre – Rebelion — https://rebelion.org/universidades-del-capitalismo-en-crisis/</description>
-      <link>https://rebelion.org/universidades-del-capitalismo-en-crisis/</link>
-      <guid isPermaLink="false">381a679ee19580b5</guid>
-      <pubDate>Tue, 11 Aug 2026 13:42:48 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebconlib/episodios/381a679ee19580b5.mp3" length="4781808" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
