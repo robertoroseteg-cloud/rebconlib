@@ -8,6 +8,22 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>APEC 2026, la gobernanza de la IA y la economía digital</title>
+      <description>Rebelión · Conocimiento Libre — https://rebelion.org/apec-2026-la-gobernanza-de-la-ia-y-la-economia-digital/</description>
+      <link>https://rebelion.org/apec-2026-la-gobernanza-de-la-ia-y-la-economia-digital/</link>
+      <guid isPermaLink="false">faf3a2feb1867b49</guid>
+      <pubDate>Tue, 24 Nov 2026 22:36:38 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebconlib/episodios/faf3a2feb1867b49.mp3" length="4047984" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>La urgencia de luchar contra los centros de datos desde una perspectiva antimilitarista</title>
+      <description>Rebelión · Conocimiento Libre — https://rebelion.org/la-urgencia-de-luchar-contra-los-centros-de-datos-desde-una-perspectiva-antimilitarista/</description>
+      <link>https://rebelion.org/la-urgencia-de-luchar-contra-los-centros-de-datos-desde-una-perspectiva-antimilitarista/</link>
+      <guid isPermaLink="false">a95d9883fb241421</guid>
+      <pubDate>Tue, 24 Nov 2026 22:34:30 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebconlib/episodios/a95d9883fb241421.mp3" length="19953648" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Máquina juzga a humano: el caso Pangram vs Rojas Silva</title>
       <description>Rebelión · Conocimiento Libre — https://rebelion.org/maquina-juzga-a-humano-el-caso-pangram-vs-rojas-silva/</description>
       <link>https://rebelion.org/maquina-juzga-a-humano-el-caso-pangram-vs-rojas-silva/</link>
@@ -150,22 +166,6 @@
       <guid isPermaLink="false">3b831884e084689c</guid>
       <pubDate>Thu, 27 Aug 2026 22:17:59 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebconlib/episodios/3b831884e084689c.mp3" length="1964880" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Vidas artificiales: IA y crisis de la democracia</title>
-      <description>Conocimiento Libre – Rebelion — https://rebelion.org/vidas-artificiales-ia-y-crisis-de-la-democracia/</description>
-      <link>https://rebelion.org/vidas-artificiales-ia-y-crisis-de-la-democracia/</link>
-      <guid isPermaLink="false">2a99984a502b9851</guid>
-      <pubDate>Thu, 27 Aug 2026 22:17:42 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebconlib/episodios/2a99984a502b9851.mp3" length="9598176" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Tecnologías ocultas. La IA no monta en bicicleta</title>
-      <description>Conocimiento Libre – Rebelion — https://rebelion.org/tecnologias-ocultas-la-ia-no-monta-en-bicicleta/</description>
-      <link>https://rebelion.org/tecnologias-ocultas-la-ia-no-monta-en-bicicleta/</link>
-      <guid isPermaLink="false">a36c8376f12adf85</guid>
-      <pubDate>Thu, 20 Aug 2026 13:11:30 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebconlib/episodios/a36c8376f12adf85.mp3" length="4516848" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
