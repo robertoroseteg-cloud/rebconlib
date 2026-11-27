@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Yo frente a la vida que diseño y la vida que comprometo</title>
+      <description>Rebelión · Conocimiento Libre — https://rebelion.org/yo-frente-a-la-vida-que-diseno-y-la-vida-que-comprometo/</description>
+      <link>https://rebelion.org/yo-frente-a-la-vida-que-diseno-y-la-vida-que-comprometo/</link>
+      <guid isPermaLink="false">fb8d897c419e47d4</guid>
+      <pubDate>Fri, 27 Nov 2026 21:16:52 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebconlib/episodios/fb8d897c419e47d4.mp3" length="2818512" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>APEC 2026, la gobernanza de la IA y la economía digital</title>
       <description>Rebelión · Conocimiento Libre — https://rebelion.org/apec-2026-la-gobernanza-de-la-ia-y-la-economia-digital/</description>
       <link>https://rebelion.org/apec-2026-la-gobernanza-de-la-ia-y-la-economia-digital/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">d51808e619731097</guid>
       <pubDate>Fri, 28 Aug 2026 22:19:47 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebconlib/episodios/d51808e619731097.mp3" length="4658544" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Meta, Zuckerberg y el «mundo feliz» de Huxley</title>
-      <description>Conocimiento Libre – Rebelion — https://rebelion.org/meta-zuckerberg-y-el-mundo-feliz-de-huxley/</description>
-      <link>https://rebelion.org/meta-zuckerberg-y-el-mundo-feliz-de-huxley/</link>
-      <guid isPermaLink="false">3b831884e084689c</guid>
-      <pubDate>Thu, 27 Aug 2026 22:17:59 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebconlib/episodios/3b831884e084689c.mp3" length="1964880" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
